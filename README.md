@@ -7,14 +7,14 @@ const bnistor4 = {
   name: "bnistordev",
   location: "Earth 🌍",
   currentStatus: "Coding the future, one commit at a time",
-  languages: ["JavaScript", "Python", "Java", "C++"],
+  languages: ["PHP","Laravel", "NextJs", "JavaScript", "TypeScript", "Python"],
   technologies: {
-    frontend: ["React", "Vue.js", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express", "Django"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "AWS", "VS Code"]
+    frontend: ["NextJs", "HTML5", "CSS3"],
+    backend: ["PHP", "Laravel", "WordPress", "Payload"],
+    databases: ["PostgreSQL", "MySQL"],
+    tools: ["Vs Code", "Hostinger", "Supabase", "Git", "Siteground", "Namecheap","a lot more!"],
   },
-  currentlyLearning: "Machine Learning & AI",
+  currentlyLearning: "AI, VibeCoding, and how to make the perfect cup of coffee ☕",
   funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
 ```
@@ -22,17 +22,20 @@ const bnistor4 = {
 ## 🎯 What I'm Up To
 
 - 🔭 Currently working on something revolutionary (it's top secret for now! 🤫)
-- 🌱 Diving deep into AI/ML because even robots need friends.
+- 🌱 Diving deep into AI and MultiversX Blockchain.
 - 👯 Eager to collaborate on open-source projects.
-- 💬 Ask me about anything tech-related – I love geeking out!
-- ⚡ Fun fact: I can solve a Rubik's Cube while debugging code!
+- 💬 Ask me about anything tech-related and not only – I love geeking out!
+- ⚡ Fun fact: I can't solve a Rubik's Cube!
 
 ## 🛠️ My Arsenal
 
-- **Frontend:** React, Vue.js, HTML5, CSS3
-- **Backend:** Node.js, Express, Django
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, AWS, VS Code
+- **Languages & Frameworks**: PHP, Laravel, NextJs, JavaScript, TypeScript, Python
+- **Frontend**: NextJs, HTML5, CSS3 
+- **Backend**: PHP, Laravel, WordPress, Payload
+- **Databases**: PostgreSQL, MySQL
+- **Tools & Platforms**: Vs Code, Hostinger, Supabase, Git, Siteground, Namecheap
+- **Other Skills**: Web Development, API Integration, Database Management, DevOps
+- **Interests**: AI, Blockchain, Open Source, Web Development
 
 ## 📊 GitHub Stats & Streaks
 
